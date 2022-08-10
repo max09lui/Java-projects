@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=fresh_gui
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=wholescore\ wholetotal
+comment2.target=java.lang.String\ lettergrade(double,\ double)
+numComments=3
